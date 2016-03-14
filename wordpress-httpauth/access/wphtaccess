@@ -1,0 +1,4 @@
+Authtype Basic
+AuthName "Wordpress"
+AuthUserFile /var/www/html/wp-admin/htpassword
+Require valid-user
